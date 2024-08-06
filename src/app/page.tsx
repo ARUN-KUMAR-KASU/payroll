@@ -6,6 +6,8 @@ import Typography from '@mui/material/Typography';
 import { styled } from '@mui/material/styles';
 import Link from 'next/link';
 
+import Employedetails from './Employe/page';
+
 const StyledCard = styled(Card)({
   margin: '10px',
   width: '45%',
@@ -50,8 +52,8 @@ const Form16Card = () => {
 export default function HomePage() {
   return (
     <div>
-      {/* <PayslipCard />
-      <Form16Card /> */}
+      
+      
     </div>
   );
 }

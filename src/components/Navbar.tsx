@@ -71,7 +71,7 @@ import { ThemeProvider, createTheme } from '@mui/material/styles';
 
 const pages = [
   { name: 'Home', path: '/', icon: <HomeIcon sx={{ color: 'white' }}/> },
-  { name: 'Employees', path: '/Employees', icon: <AccountCircleIcon sx={{ color: 'white' }} /> },
+  { name: 'Employe', path: '/Employe', icon: <AccountCircleIcon sx={{ color: 'white' }} /> },
   { name: 'Payslip', path: '/Payslip', icon: <AttachMoneyIcon sx={{ color: 'white' }} /> },
   { name: 'Approvals', path: '/Approvals', icon: <CheckCircleIcon sx={{ color: 'white' }} /> },
   { name: 'Form 16', path: '/Form16', icon: <DescriptionIcon sx={{ color: 'white' }} /> },
