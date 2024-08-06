@@ -1,4 +1,5 @@
 {
+  "/Employe/page": "app/Employe/page.js",
   "/page": "app/page.js",
-  "/Payslip/GeneratePayslip/page": "app/Payslip/GeneratePayslip/page.js"
+  "/favicon.ico/route": "app/favicon.ico/route.js"
 }
